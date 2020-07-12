@@ -17,4 +17,8 @@ public class GitTest {
     public void sayHello(){
         System.out.println("尚硅谷，你好...");
     }
+
+    public void hello(){
+        System.out.println("hello....");
+    }
 }
